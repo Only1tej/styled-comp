@@ -48,7 +48,7 @@ const rotate = keyframes`
 export const AnimatedLogo = styled.img`
   height: 40vmin;
   pointer-events: none;
-  animation: ${rotate} infinite 20s linear;
+  animation: ${rotate} infinite 25s linear;
 `;
 
 export const DarkButton = styled(StyledButton)`
